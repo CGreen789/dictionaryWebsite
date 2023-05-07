@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(199, 245, 230);
+  background-color: rgb(236, 253, 248);
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   display: flex;
   flex-direction: column;
@@ -23,12 +23,12 @@ button {
   align-items: center;
   margin-top: 20px;
   border: 1px solid red;
-  background-color: rgb(246, 235, 219);
+  background-color: rgb(150, 218, 182);
 }
 
 .container {
   border: 1px solid red;
   padding: 20px;
   margin: 20px;
-  background-color: rgb(247, 243, 238);
+  background-color: rgb(156, 229, 172);
 }
