@@ -6,3 +6,10 @@ This repo will allow me to practise fetching data from an API (https://dictionar
 
 
 I am also using a random word API (http://random-word-api.herokuapp.com/home) to allow the user to fetch a random word from the Dictionary API.
+
+## Things to add:
+
+- I'd like to improve the UI of this page
+    - Look at some other examples, what is the user expecting from this website?
+- Improve the colours - again, look at other examples 
+- Alter the CSS accordingly.
