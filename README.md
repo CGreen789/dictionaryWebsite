@@ -13,3 +13,5 @@ I am also using a random word API (http://random-word-api.herokuapp.com/home) to
     - Look at some other examples, what is the user expecting from this website?
 - Improve the colours - again, look at other examples 
 - Alter the CSS accordingly.
+- Add functionality
+     - Add certain words to a list on click? 
