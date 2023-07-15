@@ -15,3 +15,6 @@ I am also using a random word API (http://random-word-api.herokuapp.com/home) to
 - Alter the CSS accordingly.
 - Add functionality
      - Add certain words to a list on click? 
+- Add the ability to save words to a list
+    - JSON file to write data too?
+    - server with express
